@@ -1,0 +1,21 @@
+title: LXISOFT AI + ECM Platform
+description: AI-powered enterprise solutions and full-stack internship program by LXISOFT
+theme: just-the-docs
+
+url: "https://lxisoft.github.io/ai-ecm-platform"
+
+color_scheme: light
+
+aux_links:
+  "LXISOFT Website":
+    - "https://www.lxisoft.com"
+  "Apply for Internship":
+    - "https://www.lxisoft.com/internship"
+
+callouts:
+  note:
+    title: Note
+    color: blue
+  warning:
+    title: Warning
+    color: red
