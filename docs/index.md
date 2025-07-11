@@ -4,7 +4,8 @@ title: LXISOFT AI-Powered Platform
 nav_order: 1
 ---
 
-![LXISOFT Logo](assets/images/logo.jpg)
+<img src="assets/images/logo.jpg" alt="LXISOFT Logo" width="200">
+
 
 > **Empowering Enterprises & Engineers**  
 > With a composable platform combining **AI + ECM + BPM**  
